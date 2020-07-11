@@ -3378,7 +3378,9 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="1" loc="(400,3690)" name="Controlled Buffer"/>
     <comp lib="0" loc="(380,4580)" name="Constant"/>
-    <comp lib="0" loc="(570,1770)" name="Constant"/>
+    <comp lib="0" loc="(570,1770)" name="Constant">
+      <a name="value" val="0x0"/>
+    </comp>
     <comp lib="1" loc="(1550,5550)" name="Controlled Buffer">
       <a name="width" val="2"/>
     </comp>
@@ -3437,7 +3439,9 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="1" loc="(670,3570)" name="Controlled Buffer">
       <a name="width" val="2"/>
     </comp>
-    <comp lib="0" loc="(570,1740)" name="Constant"/>
+    <comp lib="0" loc="(570,1740)" name="Constant">
+      <a name="value" val="0x0"/>
+    </comp>
     <comp lib="0" loc="(570,1800)" name="Constant">
       <a name="value" val="0x0"/>
     </comp>
